@@ -1,0 +1,7 @@
+{
+  "name": "LuminaSub - Audio to Subtitle Converter",
+  "description": "A professional-grade audio transcription and subtitle generator powered by Gemini AI. Upload your audio files and receive precise, timestamped subtitles in SRT and VTT formats.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
